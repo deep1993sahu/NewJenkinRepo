@@ -8,7 +8,7 @@ public class SpringBootJenkinWebAppsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootJenkinWebAppsApplication.class, args);
-		System.out.println("jenkin rest app");
+		System.out.println("jenkin rest  wish app");
 	}
 
 }
